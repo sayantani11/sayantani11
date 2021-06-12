@@ -40,5 +40,6 @@
 # Github Stats:
 
 <img src = "https://github-readme-stats.vercel.app/api?username=sayantani11&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://activity-graph.herokuapp.com/graph?username=sayantani11&theme=xcode" alt="Contribution Graph" align="center" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantani11&show_icons=true&locale=en&layout=compact" alt="sayantani11" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantani11&" alt="sayantani11" />
+<img align="center" src="https://grass-graph.moshimo.works/images/sayantani11.png" />
