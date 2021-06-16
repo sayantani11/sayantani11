@@ -13,7 +13,7 @@
 
 # My Experiences 🙌🏻
 
-- [GSSOC'21](https://gssoc.girlscript.tech/) Participant: Contributed to projects related to Python.
+- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to projects related to Python.
 <br>
 
 # Connect with me 📌
