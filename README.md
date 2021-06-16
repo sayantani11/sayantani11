@@ -13,7 +13,7 @@
 
 # My Experiences 🙌🏻
 
-- Participant at GirlScript Summer of Code [GSSOC'21](https://gssoc.girlscript.tech/)
+- [GSSOC'21](https://gssoc.girlscript.tech/) Participant: Contributed to projects related to Python.
 <br>
 
 # Connect with me 📌
