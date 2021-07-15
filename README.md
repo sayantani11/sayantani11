@@ -13,7 +13,7 @@
 
 # My Experiences 🙌🏻
 
-- [Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/):Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
+- [Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/): Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
 - [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to various projects, automation scripts mainly based on Python or C++. Developed efficient solutions to complex algorithmic problems in Python.
 - [Microsoft Student Learn Ambassadoe](https://studentambassadors.microsoft.com/): Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.
 <br>
