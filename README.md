@@ -18,6 +18,10 @@
 - [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.
 <br>
 
+# Honors & Awards 🥇
+- Selected as a recipent of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
+<br>
+
 # Connect with me 📌
 
 [<img align="left" alt="Sayantani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sayantani-saha-47a55b1bb)
