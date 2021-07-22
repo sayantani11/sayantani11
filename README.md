@@ -20,6 +20,7 @@
 
 # Honors & Awards 🥇
 - Selected as a recipent of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
+- Selected as a scholarship recipent of the [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) for 2021.
 <br>
 
 # Connect with me 📌
