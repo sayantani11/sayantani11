@@ -47,8 +47,8 @@
 
 <p align="center">
 
-  ![Sayantani's github stats](https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=true)
-  ![Sayantani's streak stats](http://github-readme-streak-stats.herokuapp.com?user=sayantani11&show_icons=true&hide_border=true)
+  ![Sayantani's github stats](https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=false)
+  ![Sayantani's streak stats](http://github-readme-streak-stats.herokuapp.com?user=sayantani11&show_icons=true&hide_border=false)
   
 </p>
 
