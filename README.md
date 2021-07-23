@@ -45,8 +45,10 @@
 <br/>
 <br/>
 
+<p align="center">
 
-![Sayantani's github stats](https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sayantani11.sayantani11)
+  ![Sayantani's github stats](https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=true)
+  ![Sayantani's streak stats](http://github-readme-streak-stats.herokuapp.com?user=sayantani11&show_icons=true&hide_border=true)
+  
+</p>
 
