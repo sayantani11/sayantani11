@@ -46,5 +46,9 @@
 <br>
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=sayantani11&&show_icons=true&title_color=2a94d1&icon_color=bb2acf&text_color=#1814e3&bg_color=ffffff">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantani11&" alt="sayantani11" />
+<p align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayantani11&theme=react&show_icons=true" />
+  <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=sayantani11&theme=react" />
+</p>
+
