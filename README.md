@@ -1,6 +1,6 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sayantani Saha!
 
-## About Me 🚀
+## About Me 🚀 
 
 🎓 I am an open source enthusiast and currently pursuing my Bachelor's in Electrical Engineering.
 <br>
@@ -13,10 +13,15 @@
 
 ## My Experiences 🙌🏻
 
-- [Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/): Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
-- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to various projects, automation scripts mainly based on Python or C++. Developed efficient solutions to complex algorithmic problems in Python.
-- [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.
-<br>
+- [Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/open_source.png" ALIGN="left" width="70" height="70" />Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
+---
+- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/gssoc_sq.png" ALIGN="left" width="70" height="70" /> Contributed to various projects, automation scripts mainly based on Python or C++. Developed efficient solutions to complex algorithmic problems in Python. </br></br>
+---
+- [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/microsoft_student_learn_ambassador.png" ALIGN="left" width="75" height="70" />  Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. </br></br>
+---
 
 ## Honors & Awards 🥇
 - Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
@@ -25,8 +30,8 @@
 
 ## Connect with me 📌
 
-[<img align="left" alt="Sayantani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sayantani-saha-47a55b1bb)
-[<img align="left" alt="Sayantani | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://ii.sayantani.ii@gmail.com)
+[<img align="left" alt="Sayantani | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://linkedin.com/in/sayantani-saha-47a55b1bb)
+[<img align="left" alt="Sayantani | Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](https://ii.sayantani.ii@gmail.com)
 
 <br>
 <br>
@@ -44,9 +49,9 @@
  -->
 <br/>
 
-<p align="center">
+## <img src="https://c.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="29px"> GitHub Stats 
 
-  ![Sayantani's github stats](https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=false)
-  
-</p>
-
+<center>
+    <a href="#"><img alt="Sayantani's github stats" src="https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=false&theme=radical" height="180px" /></a>
+    <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantani11&theme=radical" height="180px" /></a>
+</center>
