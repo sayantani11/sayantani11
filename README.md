@@ -20,7 +20,7 @@
 
 ## Honors & Awards 🥇
 - Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
-- Selected as a scholarship recipient for [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in the year 2021.
+- Selected as a scholarship recipient for [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) & [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
 <br>
 
 ## Connect with me 📌
