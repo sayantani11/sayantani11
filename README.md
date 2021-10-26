@@ -43,10 +43,3 @@
 [<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
  -->
 <br/>
-
-<p align="center">
-
-  ![Sayantani's github stats](https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=false)
-  
-</p>
-
