@@ -1,6 +1,6 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sayantani Saha!
 
-## About Me 🚀
+## 🚀 About Me
 
 🎓 I am an open source enthusiast and currently pursuing my Bachelor's in Electrical Engineering.
 <br>
@@ -11,26 +11,38 @@
 🎯 2021 Goal : Contribute to as many open source project as possible
 <br>
 
-## My Experiences 🙌🏻
+## 🙌 My Experiences 
 
-- [LFX Mentee for FALL'21](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3): Contributed to [Cluster API Provider GCP (CAPG)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) and enhanced the documentation and also added few scripts.
-- [Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/): Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
-- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to various projects, automation scripts mainly based on Python or C++. Developed efficient solutions to complex algorithmic problems in Python.
-- [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.
-<br>
+### ➤ [➤ LFX Mentee for FALL'21](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3): </br>
+<IMG SRC="https://fellowship.mlh.io/favicon.ico" ALIGN="left" width="70" height="70" />Contributed to [Cluster API Provider GCP (CAPG)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) and enhanced the documentation and also added few scripts.
+<br/> <br/> <br/>
+### ➤ [➤ Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/): </br>
+<IMG SRC="https://4b7xbg26zfmr1aupi724hrym-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/cropped-GHC_Logos_kjs12_onC-1-e1596554845308-192x192.png" ALIGN="left" width="70" height="70" />Attendee/Contributor at [AnitaB](https://anitab.org/). Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
 
-## Honors & Awards 🥇
+### ➤ [➤ GSSOC'21 Participant](https://gssoc.girlscript.tech/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/gssoc_sq.png" ALIGN="left" width="70" height="70" /> Contributed to various projects, automation scripts mainly based on Python or C++. Developed efficient solutions to complex algorithmic problems in Python. </br></br>
+
+### ➤ [➤ Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/microsoft_student_learn_ambassador.png" ALIGN="left" width="75" height="70" />  Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. </br></br>
+
+## 🥇 Honors & Awards 
 - Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
 - Selected as a scholarship recipient for [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) & [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
-<br>
 
-## Connect with me 📌
+## <img src="https://c.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="29px"> GitHub Stats 
 
-[<img align="left" alt="Sayantani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sayantani-saha-47a55b1bb)
-[<img align="left" alt="Sayantani | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://ii.sayantani.ii@gmail.com)
+<center>
+<img alt="Sayantani's github stats" src="https://github-readme-stats.vercel.app/api?username=sayantani11&show_icons=true&hide_border=true&theme=radical&count_private=true" height="180px" />
+<img alt="Sayantani's github stats" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=1" />
+</center>
 
-<br>
-<br>
+## 📌 Connect with me 
+<a href="https://linkedin.com/in/sayantani-saha-47a55b1bb"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://ii.sayantani.ii@gmail.com"><img src="https://img.shields.io/badge/ii.sayantani.ii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+
+<hr/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F979E3&size=24&lines=Thanks+for+Visiting+!)](https://git.io/typing-svg)
 
 <!-- ## Languages and Tools 💻
 
