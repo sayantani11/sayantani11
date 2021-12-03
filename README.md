@@ -24,10 +24,12 @@
 
 ### ➤ [➤ Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): </br>
 <IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/microsoft_student_learn_ambassador.png" ALIGN="left" width="75" height="70" />  Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. </br></br>
+<br>
 
 ## 🥇 Honors & Awards 
 - Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
 - Selected as a scholarship recipient for [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) & [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
+<br>
 
 ## 📌 Connect with me 
 <a href="https://linkedin.com/in/sayantani-saha-47a55b1bb"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
