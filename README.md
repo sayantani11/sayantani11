@@ -8,7 +8,7 @@
 <br>
 🤗 I am always open to learn new things and currently learning about Kubernetes.
 <br>
-🎯 2021 Goal : Contribute to as many open source project as possible
+🎯 2022 Goal : Keep learning and keep contributing
 <br>
 
 ## 🙌 My Experiences 
