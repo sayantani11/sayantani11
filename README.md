@@ -37,8 +37,6 @@
 
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F979E3&size=24&lines=Thanks+for+Visiting+!)](https://git.io/typing-svg)
-
 <!-- ## Languages and Tools 💻
 
 [<img align="left" alt="python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
