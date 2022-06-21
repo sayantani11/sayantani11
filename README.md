@@ -1,5 +1,3 @@
-## I'm Sayantani Saha!
-
 ## 🚀 About Me
 
 🎓 I am an open source enthusiast and currently pursuing my Bachelor's in Electrical Engineering.
