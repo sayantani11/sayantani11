@@ -2,9 +2,7 @@
 
 🎓 I am an open source enthusiast and currently pursuing my Bachelor's in Electrical Engineering.
 <br>
-👨‍💻 I am basically a Python Developer and also interested in DevOps, WebDev & Cloud Computing.
-<br>
-🤗 I am always open to learn new things and currently learning about Kubernetes.
+👨‍💻 I am basically a Python Developer and also interested in DevOps, & Cloud Computing.
 <br>
 🎯 2022 Goal : Keep learning and keep contributing
 <br>
